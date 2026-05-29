@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 24" width="224" height="24" role="img" aria-label="CodingFabrik">
+  <title>CodingFabrik</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@800&amp;display=swap');
+    .wordmark {
+      font-family: "Public Sans", ui-sans-serif, system-ui, sans-serif;
+      font-weight: 800;
+      font-size: 20px;
+      letter-spacing: -0.045em;
+      fill: #0a0a09;
+    }
+    .mark {
+      font-family: "Public Sans", ui-sans-serif, system-ui, sans-serif;
+      font-weight: 800;
+      font-size: 20px;
+      letter-spacing: -0.045em;
+      fill: #802020;
+    }
+  </style>
+  <text y="19" class="wordmark">CodingFabrik</text><text x="198" y="19" class="mark">.</text>
+</svg>
